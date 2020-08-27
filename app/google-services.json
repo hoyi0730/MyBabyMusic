@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "352705603611",
+    "firebase_url": "https://babymusic-de74f.firebaseio.com",
+    "project_id": "babymusic-de74f",
+    "storage_bucket": "babymusic-de74f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352705603611:android:07448ddf539181f0d7f0be",
+        "android_client_info": {
+          "package_name": "mybabymusic.coreplanet.co.kr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352705603611-3joes2rm06cdkklimv3kdnk10db2s44i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArh9o30blUDGrONwq_MNvDg-_mHIOsMVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352705603611-3joes2rm06cdkklimv3kdnk10db2s44i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
